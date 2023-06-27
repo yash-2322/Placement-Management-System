@@ -21,7 +21,7 @@ OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
 
-ii> git clone https://github.com/narendra03K/Placement-Portal
+ii> git clone 
 
 4. Extract files in C:\xampp\htdocs.
 
