@@ -15,7 +15,7 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/narendra03K/Placement-Portal).
+3. Download project from github(https://github.com/yash-2322/Placement-Management-System/tree/main)).
 
 OR follow gitbash commands
 
